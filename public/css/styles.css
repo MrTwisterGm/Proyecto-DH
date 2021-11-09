@@ -5,7 +5,7 @@
 
 h1{
 
-color: tomato  ;
+color: orange  ;
 text-align: center;
 font-family: 'Roboto Mono', monospace;
 }
@@ -14,7 +14,7 @@ font-family: 'Roboto Mono', monospace;
 
 a.navbar-brand.hola {
 
-color: tomato;
+color: orange;
 font-family: 'Roboto Mono', monospace;
 }
 
